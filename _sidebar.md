@@ -7,8 +7,13 @@
 
 - iOS 开发
     - [Objective-C 内存管理](source/objc/objc-memory.md)
+    - [Blocks](source/objc/blocks.md)
+    - [Objective-C Runtime](source/objc/runtime.md)
+    - [Runloop](source/objc/runloop.md)
+    - [并发与多线程](source/objc/Concurrency.md)
 
-- 其它
-  - Ruby
+- Ruby
     - [rbenv](source/ruby/rbenv.md)
 
+- 其它
+  - [Homebrew](source/other/brew.md)

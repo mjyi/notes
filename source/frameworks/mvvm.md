@@ -27,7 +27,8 @@
 
 ### 参考资料
 
-[iOS 架构模式 - 简述 MVC, MVP, MVVM 和 VIPER (译)](https://blog.coding.net/blog/ios-architecture-patterns)
+- [iOS 架构模式 - 简述 MVC, MVP, MVVM 和 VIPER (译)](https://blog.coding.net/blog/ios-architecture-patterns)
+- [MVVM in Swift](http://artsy.github.io/blog/2015/09/24/mvvm-in-swift/)
 
 [ReactiveCocoa]: https://github.com/ReactiveCocoa/ReactiveCocoa
 [RxSwift]: https://github.com/ReactiveX/RxSwift
